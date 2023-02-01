@@ -261,7 +261,7 @@ justify-content: flex-end;
 .servis-block__info_fon1 {
     min-width: 386px;
     min-height: 500px;
-    background-image: linear-gradient(to right, rgba(0,0,0, .7), rgba(0,0,0, .7)), url(/img/ocenka.jpg);
+    background-image: linear-gradient(to right, rgba(0,0,0, .7), rgba(0,0,0, .7)), url(./img/ocenka.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -304,12 +304,12 @@ justify-content: flex-end;
 .servis-block__info_fon2 {
     min-width: 386px;
     min-height: 500px;
-    background-image: url(/img/kvartdoma.jpg);
+    background-image: url(./img/kvartdoma.jpg);
 }
 .servis-block-info_3 {
     min-width: 386px;
     min-height: 500px;
-    background-image: url(/img/urist.jpg);
+    background-image: url(./img/urist.jpg);
 }
 
 /* servis end */
